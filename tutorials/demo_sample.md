@@ -149,3 +149,20 @@ Once you've made changes you like, reopen the source control menu.
 
 1. Add a Message that explains the changes you've made.
 2. Press the commit button.
+3. You now have local changes commited to your local repository. The next step is to push them back to the github.com repository.
+4.
+
+
+# Step 5: Starting a New Repository from Visual Studio Code
+We will want to start with a fresh window for a new project. You can go ahead and close what you've ween working on and/or under the FILE menu at the top, select "New Window"
+
+1. Create a new folder on your computer, this will hold your new project.
+2. Open that folder in VS Code
+3. Open the Source Control menu
+4. Select **Initalize Repository**
+5. That's it! You can add files to that folder, commit them, and publish / push the repo to your github account, just like with the repo you cloned. It creates the same structure as if you'd created the project on github and cloned it, but in reverse. Either works!
+
+
+# Coming soon:
+1. Working with branches.
+2. Creating group repositories.
